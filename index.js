@@ -7,4 +7,4 @@ function iterativeLog(array){
     console.log(`${index}` + `:` + `${element}`);
   })
 }
-interativeLog(even):
+interativeLog(even);
