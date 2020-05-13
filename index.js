@@ -6,11 +6,11 @@ function iterativeLog(array){
     debugger;
     console.log(`${index}` + `:` + `${element}`);
   })
-  
+
 }
 interativeLog(even);
 
- 
+
 evens.forEach((even, index, array) => {
   debugger;
   console.log(`${even} is not odd!`);
