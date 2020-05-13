@@ -8,4 +8,4 @@ function iterativeLog(array){
   })
 
 }
-interativeLog(even);
+
