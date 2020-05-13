@@ -8,4 +8,3 @@ function iterativeLog(array){
   })
 
 }
-
